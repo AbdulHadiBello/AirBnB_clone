@@ -1,4 +1,4 @@
-AirBnB clone V4 
+AirBnB clone 
 
 Authors
 Abdulhadi bello
